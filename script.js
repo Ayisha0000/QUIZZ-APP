@@ -10,7 +10,7 @@
 //         ]
 //     },
 //     {
-//         question:  "what number is next,2,4,14,22,32?",
+//         question:  "what number is next,2,4,8,14,22,32?",
 //         Answer:[
 //             {text:"44",correct:true},
 //             {text:"16",correct:false},
